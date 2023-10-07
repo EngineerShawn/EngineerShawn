@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://engineerpatterson.com/images/ep-logo.png" width="550px"/>
+<!--  <img src="https://engineerpatterson.com/images/ep-logo.png" width="550px"/> -->
   <div id="badges">
     <a href="https://www.facebook.com/engineerpatterson">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
