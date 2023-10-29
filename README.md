@@ -45,9 +45,9 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BountyFiveO&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerShawn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BountyFiveO&theme=github-dark&border_radius=10&date_format=%5BY%20%5DM%20j&fire=CB5413&stroke=21F96E&background=1E1D1A)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EngineerShawn&theme=github-dark&border_radius=10&date_format=%5BY%20%5DM%20j&fire=CB5413&stroke=21F96E&background=1E1D1A)](https://git.io/streak-stats)
 
 ---
 
